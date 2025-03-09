@@ -1,0 +1,10 @@
+Follows this tutorial:
+https://www.youtube.com/watch?v=O3BUHwfHf84
+
+///
+
+I had some issues at the end (I believe delete was not working), but the product creation is working, and Item cards are being displayed.
+
+MONGO_URI=mongodb+srv://sethshuey1:davfJRZ35hxVl8sR@cluster0.e3j3v.mongodb.net/products?retryWrites=true&w=majority&appName=Cluster0
+
+PORT=5000
