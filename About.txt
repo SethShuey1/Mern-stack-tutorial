@@ -1,6 +1,11 @@
 Follows this tutorial:
 https://www.youtube.com/watch?v=O3BUHwfHf84
 
+Run with:
+npm run start
+Run on:
+http://localhost:5000/
+
 ///
 
 I had some issues at the end (I believe delete was not working), but the product creation is working, and Item cards are being displayed.
